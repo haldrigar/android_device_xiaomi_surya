@@ -327,6 +327,7 @@ PRODUCT_PACKAGES += \
     KarnaFrameworks \
     KarnaSettingsProvider \
     KarnaWifiResources \
+    NotchBarKillerSurya \
     SuryaFrameworks \
     SuryaSettingsProvider \
     SuryaWifiResources
